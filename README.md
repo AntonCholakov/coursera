@@ -1,0 +1,1 @@
+Course Project - NodeJS + Express + Mongo + GraphQL
